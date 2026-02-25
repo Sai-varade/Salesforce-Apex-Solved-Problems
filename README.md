@@ -10,8 +10,4 @@ Each solution focuses on:
 - Bulk-safe and governor-limit-friendly logic
 - Proper Apex unit test coverage
 
----
 
-## Repository Structure
-
-Each folder represents a **business feature**, not individual files.
